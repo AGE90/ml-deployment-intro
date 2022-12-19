@@ -2,3 +2,5 @@ pyprojroot
 pathlib
 black
 ipykernel
+pandas
+scikit-learn
