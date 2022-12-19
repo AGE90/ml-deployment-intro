@@ -1,6 +1,6 @@
-pyprojroot
-pathlib
-black
-ipykernel
-pandas
-scikit-learn
+pyprojroot==0.2.0
+pathlib==1.0.1
+black==22.12.0
+ipykernel==6.19.2
+pandas==1.5.2
+scikit-learn==1.2.0
