@@ -1,0 +1,4 @@
+pyprojroot
+pathlib
+black
+ipykernel
